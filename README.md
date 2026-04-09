@@ -108,17 +108,17 @@ lib/
 
 ## Roadmap
 
-### v1.1
+> Currently on **v1.0**
+
+### Next Up
 - [ ] Full per-expense notification scheduling
 - [ ] Recurring expense auto-generation (monthly carry-over)
 - [ ] Onboarding flow for first-time users
-
-### v1.2
 - [ ] Payment history per expense
 - [ ] Import / backup from JSON file
 - [ ] Home screen widget
 
-### Future
+### Future Ideas
 - [ ] Advanced analytics and spending projections
 - [ ] iOS support
 - [ ] Optional encrypted cloud backup
